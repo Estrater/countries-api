@@ -1,0 +1,25 @@
+{
+    "countries": [
+      { "id": 1, "name": "Brazil" },
+      { "id": 2, "name": "Canada" },
+      { "id": 3, "name": "Australia" },
+      { "id": 4, "name": "Germany" },
+      { "id": 5, "name": "India" },
+      { "id": 6, "name": "Japan" },
+      { "id": 7, "name": "Mexico" },
+      { "id": 8, "name": "Nigeria" },
+      { "id": 9, "name": "South Africa" },
+      { "id": 10, "name": "United Kingdom" },
+      { "id": 11, "name": "United States" },
+      { "id": 12, "name": "Argentina" },
+      { "id": 13, "name": "China" },
+      { "id": 14, "name": "Egypt" },
+      { "id": 15, "name": "France" },
+      { "id": 16, "name": "Italy" },
+      { "id": 17, "name": "Russia" },
+      { "id": 18, "name": "Saudi Arabia" },
+      { "id": 19, "name": "South Korea" },
+      { "id": 20, "name": "Spain" }
+    ]
+  }
+  
